@@ -1,0 +1,53 @@
+body {
+    background: black;
+
+}
+
+
+
+
+.post {
+    background: white;
+    margin-left: 250px;
+    margin-right: 15%;
+    width: 410px;
+    height: 600px;
+
+}
+
+.post-header {
+
+    display: flex;
+   
+}
+
+#save {
+
+    font-size: xx-large;
+    float: right;
+    width: 30px;
+    padding: 7px;
+}
+
+#save-1 {
+    font-size: xx-large;
+    width: 20px;
+    padding: 7px;
+}
+
+p {
+    padding: 17px;
+}
+
+#icons-1 {
+
+    place-content: center;
+    font-size: xxx-large;
+    padding: 28px;
+    height: 50px;
+}
+#icons-2{
+    margin-top: 24px;
+    margin-left: 170px;
+    font-size: -webkit-xxx-large;
+}
